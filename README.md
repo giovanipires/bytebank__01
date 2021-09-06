@@ -42,3 +42,7 @@ Capturar as informações de um formulário.
 Utilizar o metadata @Output() para criar um evento para o seu componente.
 Emitir eventos dentro do seu componente.
 Utilizar o event binding para capturar o evento propagando pelo componente.
+
+Utilizar o metadata @Input() para receber valores em um componente;
+Exibir uma lista de dados através da diretiva *ngFor;
+Configurar o formato de horas na aplicação.
